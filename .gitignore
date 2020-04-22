@@ -1,0 +1,8 @@
+__ipynb__/
+
+#Ignore Images
+*.jpg
+*.png
+*.jpeg
+*.bmp
+
